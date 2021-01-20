@@ -37,11 +37,14 @@ Return: returns the topmost value from the stack generated from a function
 
 Quit: quits the interpreter, and immediately outputs a file
 
+## Values
+
+Values in this interpreter can be integers, booleans (True/False), strings (alphanumeric characters within double quotes), or names (strings without quotes).
+
 ## Running
 
 In order to run this interpreter, your system will need to have OCaml installed. More details about this can be found here: https://ocaml.org/docs/install.html
 Once installed, you may either specify which input file to read from (from among the ones included in this repository), or you may create your own input file (in accordance with the acceptable grammar), and then specify where the output file will be stored.
-
 
 ## Contact
  
