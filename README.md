@@ -1,6 +1,6 @@
 # OCaml-Interpreter
 
-As part of Boston University's functional programming class, CS320, I developed a stack-based interpreter in OCaml, capable of simple arithmetic operations, boolean operations, relational operations, string manipulations, independent statement block execution, conditional execution, error handling, and functions.
+As part of Boston University's functional programming class, CS320, I developed a stack-based interpreter in OCaml, capable of simple arithmetic operations, boolean operations, relational operations, string manipulation, independent statement block execution, conditional execution, error handling, and functions.
 
 ## Commands
 
