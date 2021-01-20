@@ -5,20 +5,36 @@ As part of Boston University's functional programming class, CS320, I developed 
 ## Commands
 
 Pop: pop off the topmost value in the stack
+
 Push: push a value onto the stack
+
 Swap: swap the two topmost values in the stack
+
 Add, Sub, Mul, Div, Rem: self-explanatory commands for arithmetic operations
+
 Neg: negate the topmost value in the stack
+
 And, Or, Not: self-explanatory commands for boolean operations
+
 Lt, Lte, Gt, Gte, Eq: self-explanatory commands for relational operations
+
 Cat: concatenate the top two values in the stack
+
 Bnd: bind the topmost value to a name
+
 Begin...End: marks an independent block of statements
+
 If...Then...Else: conditional execution
-Try...With: error handling; first, the try block is executed; if no error is found, the with block is skipped; otherwise, the partial output from the try block is let go, and then the with block is executed
+
+Try...With: error handling; first, the try block is executed; if no error is found, the with block is skipped; otherwise, the partial output from the try block is let go, and 
+then the with block is executed
+
 Fun...EndFun: marks a function
+
 Call: calls a function
+
 Return: returns the topmost value from the stack generated from a function
+
 Quit: quits the interpreter, and immediately outputs a file
 
 ## Running
